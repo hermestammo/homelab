@@ -1,5 +1,9 @@
 # Homelab
 
+> **Deprecated.** This repository is no longer maintained. The canonical version lives at
+> <https://github.com/Tammoust/security-first-homelab-reference>.
+> Do not add anything here; open changes against the canonical repository instead.
+
 A security-first reference architecture for a small self-hosted environment. This repository documents patterns, decision records, runbooks, and sanitized examples—not live topology, credentials, or production configuration.
 
 ## Design principles
